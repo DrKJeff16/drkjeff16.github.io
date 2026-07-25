@@ -1,5 +1,7 @@
 title: "DrKJeff16's Site"
-description: "DrKJeff16's personal GitHub page."
-theme: jekyll-theme-cayman
+tagline: "DrKJeff16's personal GitHub page."
 show_downloads: false
 google_analytics:
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme
