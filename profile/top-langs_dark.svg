@@ -134,7 +134,7 @@
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="79.01283559113595%">
+      <svg data-testid="lang-progress" width="79.01207112888493%">
         <rect
             height="8"
             fill="#000080"
@@ -153,7 +153,7 @@
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="11.413653147967626%">
+      <svg data-testid="lang-progress" width="11.414068892887142%">
         <rect
             height="8"
             fill="#89e051"
@@ -172,7 +172,7 @@
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="4.5184808165855275%">
+      <svg data-testid="lang-progress" width="4.518645403279995%">
         <rect
             height="8"
             fill="#3572A5"
@@ -191,7 +191,7 @@
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="3.850837094740165%">
+      <svg data-testid="lang-progress" width="3.850977362359767%">
         <rect
             height="8"
             fill="#555555"
